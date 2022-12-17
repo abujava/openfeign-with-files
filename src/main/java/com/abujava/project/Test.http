@@ -1,0 +1,6 @@
+GET http://localhost:8080/api/download/
+Accept: application/json
+
+###
+GET http://localhost:8080/api/upload/download.jpg
+Accept: application/json

@@ -1,0 +1,1548 @@
+2022-12-17 16:04:23 - Starting OpenfeignWithFilesApplication using Java 11.0.16 on Win11 with PID 13072 (D:\AbuJava\openfeign-with-files\target\classes started by Muhammad in D:\AbuJava\openfeign-with-files)
+2022-12-17 16:04:23 - Running with Spring Boot v2.7.3, Spring v5.3.22
+2022-12-17 16:04:23 - No active profile set, falling back to 1 default profile: "default"
+2022-12-17 16:04:23 - BeanFactory id=db6be678-758a-35b6-8794-8d5256c2b7d2
+2022-12-17 16:04:24 - Tomcat initialized with port(s): 8080 (http)
+2022-12-17 16:04:24 - Starting service [Tomcat]
+2022-12-17 16:04:24 - Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-12-17 16:04:24 - Initializing Spring embedded WebApplicationContext
+2022-12-17 16:04:24 - Root WebApplicationContext: initialization completed in 785 ms
+2022-12-17 16:04:24 - Tomcat started on port(s): 8080 (http) with context path ''
+2022-12-17 16:04:25 - Started OpenfeignWithFilesApplication in 2.468 seconds (JVM running for 3.261)
+2022-12-17 16:05:09 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-12-17 16:06:16 - Starting OpenfeignWithFilesApplication using Java 11.0.16 on Win11 with PID 9364 (D:\AbuJava\openfeign-with-files\target\classes started by Muhammad in D:\AbuJava\openfeign-with-files)
+2022-12-17 16:06:16 - Running with Spring Boot v2.7.3, Spring v5.3.22
+2022-12-17 16:06:16 - No active profile set, falling back to 1 default profile: "default"
+2022-12-17 16:06:16 - BeanFactory id=db6be678-758a-35b6-8794-8d5256c2b7d2
+2022-12-17 16:06:17 - Tomcat initialized with port(s): 8080 (http)
+2022-12-17 16:06:17 - Starting service [Tomcat]
+2022-12-17 16:06:17 - Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-12-17 16:06:17 - Initializing Spring embedded WebApplicationContext
+2022-12-17 16:06:17 - Root WebApplicationContext: initialization completed in 820 ms
+2022-12-17 16:06:17 - Tomcat started on port(s): 8080 (http) with context path ''
+2022-12-17 16:06:17 - Started OpenfeignWithFilesApplication in 2.349 seconds (JVM running for 3.343)
+2022-12-17 16:06:21 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-12-17 16:28:34 - Starting OpenfeignWithFilesApplication using Java 11.0.16 on Win11 with PID 4464 (D:\AbuJava\openfeign-with-files\target\classes started by Muhammad in D:\AbuJava\openfeign-with-files)
+2022-12-17 16:28:34 - Running with Spring Boot v2.7.3, Spring v5.3.22
+2022-12-17 16:28:34 - No active profile set, falling back to 1 default profile: "default"
+2022-12-17 16:28:34 - BeanFactory id=fddf69fc-4442-34a1-be77-4f9797af2a08
+2022-12-17 16:28:35 - Tomcat initialized with port(s): 8080 (http)
+2022-12-17 16:28:35 - Starting service [Tomcat]
+2022-12-17 16:28:35 - Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-12-17 16:28:35 - Initializing Spring embedded WebApplicationContext
+2022-12-17 16:28:35 - Root WebApplicationContext: initialization completed in 1034 ms
+2022-12-17 16:28:35 - Tomcat started on port(s): 8080 (http) with context path ''
+2022-12-17 16:28:35 - Started OpenfeignWithFilesApplication in 2.474 seconds (JVM running for 3.433)
+2022-12-17 16:28:43 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-12-17 16:30:29 - Starting OpenfeignWithFilesApplication using Java 11.0.16 on Win11 with PID 12000 (D:\AbuJava\openfeign-with-files\target\classes started by Muhammad in D:\AbuJava\openfeign-with-files)
+2022-12-17 16:30:29 - Running with Spring Boot v2.7.3, Spring v5.3.22
+2022-12-17 16:30:29 - No active profile set, falling back to 1 default profile: "default"
+2022-12-17 16:30:29 - BeanFactory id=fddf69fc-4442-34a1-be77-4f9797af2a08
+2022-12-17 16:30:29 - Tomcat initialized with port(s): 8080 (http)
+2022-12-17 16:30:29 - Starting service [Tomcat]
+2022-12-17 16:30:29 - Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-12-17 16:30:30 - Initializing Spring embedded WebApplicationContext
+2022-12-17 16:30:30 - Root WebApplicationContext: initialization completed in 982 ms
+2022-12-17 16:30:30 - Tomcat started on port(s): 8080 (http) with context path ''
+2022-12-17 16:30:30 - Started OpenfeignWithFilesApplication in 2.46 seconds (JVM running for 3.282)
+2022-12-17 16:30:43 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-12-17 16:31:51 - Starting OpenfeignWithFilesApplication using Java 11.0.16 on Win11 with PID 10564 (D:\AbuJava\openfeign-with-files\target\classes started by Muhammad in D:\AbuJava\openfeign-with-files)
+2022-12-17 16:31:51 - Running with Spring Boot v2.7.3, Spring v5.3.22
+2022-12-17 16:31:51 - No active profile set, falling back to 1 default profile: "default"
+2022-12-17 16:31:52 - BeanFactory id=c1669896-9747-30ec-937e-713b03a4f31e
+2022-12-17 16:31:52 - Tomcat initialized with port(s): 8080 (http)
+2022-12-17 16:31:52 - Starting service [Tomcat]
+2022-12-17 16:31:52 - Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-12-17 16:31:52 - Initializing Spring embedded WebApplicationContext
+2022-12-17 16:31:52 - Root WebApplicationContext: initialization completed in 835 ms
+2022-12-17 16:31:53 - Tomcat started on port(s): 8080 (http) with context path ''
+2022-12-17 16:31:53 - Started OpenfeignWithFilesApplication in 2.285 seconds (JVM running for 3.056)
+2022-12-17 16:32:04 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-12-17 16:36:01 - Starting OpenfeignWithFilesApplication using Java 11.0.16 on Win11 with PID 13172 (D:\AbuJava\openfeign-with-files\target\classes started by Muhammad in D:\AbuJava\openfeign-with-files)
+2022-12-17 16:36:01 - Running with Spring Boot v2.7.3, Spring v5.3.22
+2022-12-17 16:36:01 - No active profile set, falling back to 1 default profile: "default"
+2022-12-17 16:36:01 - BeanFactory id=c1669896-9747-30ec-937e-713b03a4f31e
+2022-12-17 16:36:01 - Tomcat initialized with port(s): 8080 (http)
+2022-12-17 16:36:01 - Starting service [Tomcat]
+2022-12-17 16:36:01 - Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-12-17 16:36:02 - Initializing Spring embedded WebApplicationContext
+2022-12-17 16:36:02 - Root WebApplicationContext: initialization completed in 920 ms
+2022-12-17 16:36:02 - Tomcat started on port(s): 8080 (http) with context path ''
+2022-12-17 16:36:02 - Started OpenfeignWithFilesApplication in 2.409 seconds (JVM running for 3.248)
+2022-12-17 16:36:32 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-12-17 16:36:58 - Starting OpenfeignWithFilesApplication using Java 11.0.16 on Win11 with PID 6044 (D:\AbuJava\openfeign-with-files\target\classes started by Muhammad in D:\AbuJava\openfeign-with-files)
+2022-12-17 16:36:58 - Running with Spring Boot v2.7.3, Spring v5.3.22
+2022-12-17 16:36:58 - No active profile set, falling back to 1 default profile: "default"
+2022-12-17 16:36:58 - BeanFactory id=c1669896-9747-30ec-937e-713b03a4f31e
+2022-12-17 16:36:58 - Tomcat initialized with port(s): 8080 (http)
+2022-12-17 16:36:58 - Starting service [Tomcat]
+2022-12-17 16:36:58 - Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-12-17 16:36:59 - Initializing Spring embedded WebApplicationContext
+2022-12-17 16:36:59 - Root WebApplicationContext: initialization completed in 820 ms
+2022-12-17 16:36:59 - Tomcat started on port(s): 8080 (http) with context path ''
+2022-12-17 16:36:59 - Started OpenfeignWithFilesApplication in 2.263 seconds (JVM running for 3.074)
+2022-12-17 16:37:06 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-12-17 16:37:44 - Starting OpenfeignWithFilesApplication using Java 11.0.16 on Win11 with PID 12560 (D:\AbuJava\openfeign-with-files\target\classes started by Muhammad in D:\AbuJava\openfeign-with-files)
+2022-12-17 16:37:44 - Running with Spring Boot v2.7.3, Spring v5.3.22
+2022-12-17 16:37:44 - No active profile set, falling back to 1 default profile: "default"
+2022-12-17 16:37:45 - BeanFactory id=c1669896-9747-30ec-937e-713b03a4f31e
+2022-12-17 16:37:45 - Tomcat initialized with port(s): 8080 (http)
+2022-12-17 16:37:45 - Starting service [Tomcat]
+2022-12-17 16:37:45 - Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-12-17 16:37:45 - Initializing Spring embedded WebApplicationContext
+2022-12-17 16:37:45 - Root WebApplicationContext: initialization completed in 783 ms
+2022-12-17 16:37:46 - Tomcat started on port(s): 8080 (http) with context path ''
+2022-12-17 16:37:46 - Started OpenfeignWithFilesApplication in 2.2 seconds (JVM running for 3.025)
+2022-12-17 16:38:13 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-12-17 16:44:26 - Starting OpenfeignWithFilesApplication using Java 11.0.16 on Win11 with PID 9336 (D:\AbuJava\openfeign-with-files\target\classes started by Muhammad in D:\AbuJava\openfeign-with-files)
+2022-12-17 16:44:26 - Running with Spring Boot v2.7.3, Spring v5.3.22
+2022-12-17 16:44:26 - No active profile set, falling back to 1 default profile: "default"
+2022-12-17 16:44:27 - BeanFactory id=c1669896-9747-30ec-937e-713b03a4f31e
+2022-12-17 16:44:27 - Tomcat initialized with port(s): 8080 (http)
+2022-12-17 16:44:27 - Starting service [Tomcat]
+2022-12-17 16:44:27 - Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-12-17 16:44:27 - Initializing Spring embedded WebApplicationContext
+2022-12-17 16:44:27 - Root WebApplicationContext: initialization completed in 880 ms
+2022-12-17 16:44:28 - Tomcat started on port(s): 8080 (http) with context path ''
+2022-12-17 16:44:28 - Started OpenfeignWithFilesApplication in 2.276 seconds (JVM running for 3.171)
+2022-12-17 16:44:41 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-12-17 16:44:51 - Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is feign.codec.DecodeException: Could not extract response: no suitable HttpMessageConverter found for response type [interface org.springframework.web.multipart.MultipartFile] and content type [application/octet-stream]] with root cause
+org.springframework.web.client.UnknownContentTypeException: Could not extract response: no suitable HttpMessageConverter found for response type [interface org.springframework.web.multipart.MultipartFile] and content type [application/octet-stream]
+	at org.springframework.web.client.HttpMessageConverterExtractor.extractData(HttpMessageConverterExtractor.java:126)
+	at org.springframework.cloud.openfeign.support.SpringDecoder.decode(SpringDecoder.java:75)
+	at org.springframework.cloud.openfeign.support.ResponseEntityDecoder.decode(ResponseEntityDecoder.java:61)
+	at feign.optionals.OptionalDecoder.decode(OptionalDecoder.java:36)
+	at feign.AsyncResponseHandler.decode(AsyncResponseHandler.java:115)
+	at feign.AsyncResponseHandler.handleResponse(AsyncResponseHandler.java:87)
+	at feign.SynchronousMethodHandler.executeAndDecode(SynchronousMethodHandler.java:138)
+	at feign.SynchronousMethodHandler.invoke(SynchronousMethodHandler.java:89)
+	at feign.ReflectiveFeign$FeignInvocationHandler.invoke(ReflectiveFeign.java:100)
+	at com.sun.proxy.$Proxy65.download(Unknown Source)
+	at com.abujava.project.controller.DownloadController.download(DownloadController.java:33)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:205)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:150)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1070)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:963)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:655)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:764)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:360)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:399)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:890)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1789)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+2022-12-17 16:45:05 - Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is feign.codec.DecodeException: Could not extract response: no suitable HttpMessageConverter found for response type [interface org.springframework.web.multipart.MultipartFile] and content type [application/octet-stream]] with root cause
+org.springframework.web.client.UnknownContentTypeException: Could not extract response: no suitable HttpMessageConverter found for response type [interface org.springframework.web.multipart.MultipartFile] and content type [application/octet-stream]
+	at org.springframework.web.client.HttpMessageConverterExtractor.extractData(HttpMessageConverterExtractor.java:126)
+	at org.springframework.cloud.openfeign.support.SpringDecoder.decode(SpringDecoder.java:75)
+	at org.springframework.cloud.openfeign.support.ResponseEntityDecoder.decode(ResponseEntityDecoder.java:61)
+	at feign.optionals.OptionalDecoder.decode(OptionalDecoder.java:36)
+	at feign.AsyncResponseHandler.decode(AsyncResponseHandler.java:115)
+	at feign.AsyncResponseHandler.handleResponse(AsyncResponseHandler.java:87)
+	at feign.SynchronousMethodHandler.executeAndDecode(SynchronousMethodHandler.java:138)
+	at feign.SynchronousMethodHandler.invoke(SynchronousMethodHandler.java:89)
+	at feign.ReflectiveFeign$FeignInvocationHandler.invoke(ReflectiveFeign.java:100)
+	at com.sun.proxy.$Proxy65.download(Unknown Source)
+	at com.abujava.project.controller.DownloadController.download(DownloadController.java:33)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:205)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:150)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1070)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:963)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:655)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:764)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:360)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:399)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:890)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1789)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+2022-12-17 16:45:50 - Starting OpenfeignWithFilesApplication using Java 11.0.16 on Win11 with PID 10748 (D:\AbuJava\openfeign-with-files\target\classes started by Muhammad in D:\AbuJava\openfeign-with-files)
+2022-12-17 16:45:50 - Running with Spring Boot v2.7.3, Spring v5.3.22
+2022-12-17 16:45:50 - No active profile set, falling back to 1 default profile: "default"
+2022-12-17 16:45:51 - BeanFactory id=c1669896-9747-30ec-937e-713b03a4f31e
+2022-12-17 16:45:51 - Tomcat initialized with port(s): 8080 (http)
+2022-12-17 16:45:51 - Starting service [Tomcat]
+2022-12-17 16:45:51 - Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-12-17 16:45:51 - Initializing Spring embedded WebApplicationContext
+2022-12-17 16:45:51 - Root WebApplicationContext: initialization completed in 795 ms
+2022-12-17 16:45:52 - Tomcat started on port(s): 8080 (http) with context path ''
+2022-12-17 16:45:52 - Started OpenfeignWithFilesApplication in 2.266 seconds (JVM running for 3.142)
+2022-12-17 16:45:57 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-12-17 16:45:57 - Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is feign.codec.DecodeException: Could not extract response: no suitable HttpMessageConverter found for response type [interface org.springframework.web.multipart.MultipartFile] and content type [application/octet-stream]] with root cause
+org.springframework.web.client.UnknownContentTypeException: Could not extract response: no suitable HttpMessageConverter found for response type [interface org.springframework.web.multipart.MultipartFile] and content type [application/octet-stream]
+	at org.springframework.web.client.HttpMessageConverterExtractor.extractData(HttpMessageConverterExtractor.java:126)
+	at org.springframework.cloud.openfeign.support.SpringDecoder.decode(SpringDecoder.java:75)
+	at org.springframework.cloud.openfeign.support.ResponseEntityDecoder.decode(ResponseEntityDecoder.java:61)
+	at feign.optionals.OptionalDecoder.decode(OptionalDecoder.java:36)
+	at feign.AsyncResponseHandler.decode(AsyncResponseHandler.java:115)
+	at feign.AsyncResponseHandler.handleResponse(AsyncResponseHandler.java:87)
+	at feign.SynchronousMethodHandler.executeAndDecode(SynchronousMethodHandler.java:138)
+	at feign.SynchronousMethodHandler.invoke(SynchronousMethodHandler.java:89)
+	at feign.ReflectiveFeign$FeignInvocationHandler.invoke(ReflectiveFeign.java:100)
+	at com.sun.proxy.$Proxy65.download(Unknown Source)
+	at com.abujava.project.controller.DownloadController.download(DownloadController.java:33)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:205)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:150)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1070)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:963)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:655)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:764)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:360)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:399)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:890)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1789)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+2022-12-17 16:47:40 - Starting OpenfeignWithFilesApplication using Java 11.0.16 on Win11 with PID 4156 (D:\AbuJava\openfeign-with-files\target\classes started by Muhammad in D:\AbuJava\openfeign-with-files)
+2022-12-17 16:47:40 - Running with Spring Boot v2.7.3, Spring v5.3.22
+2022-12-17 16:47:40 - No active profile set, falling back to 1 default profile: "default"
+2022-12-17 16:47:41 - BeanFactory id=fddf69fc-4442-34a1-be77-4f9797af2a08
+2022-12-17 16:47:41 - Tomcat initialized with port(s): 8080 (http)
+2022-12-17 16:47:41 - Starting service [Tomcat]
+2022-12-17 16:47:41 - Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-12-17 16:47:41 - Initializing Spring embedded WebApplicationContext
+2022-12-17 16:47:41 - Root WebApplicationContext: initialization completed in 810 ms
+2022-12-17 16:47:41 - Tomcat started on port(s): 8080 (http) with context path ''
+2022-12-17 16:47:42 - Started OpenfeignWithFilesApplication in 2.361 seconds (JVM running for 3.423)
+2022-12-17 16:47:59 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-12-17 16:47:59 - Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is feign.codec.DecodeException: Could not extract response: no suitable HttpMessageConverter found for response type [interface org.springframework.web.multipart.MultipartFile] and content type [application/octet-stream]] with root cause
+org.springframework.web.client.UnknownContentTypeException: Could not extract response: no suitable HttpMessageConverter found for response type [interface org.springframework.web.multipart.MultipartFile] and content type [application/octet-stream]
+	at org.springframework.web.client.HttpMessageConverterExtractor.extractData(HttpMessageConverterExtractor.java:126)
+	at org.springframework.cloud.openfeign.support.SpringDecoder.decode(SpringDecoder.java:75)
+	at org.springframework.cloud.openfeign.support.ResponseEntityDecoder.decode(ResponseEntityDecoder.java:61)
+	at feign.optionals.OptionalDecoder.decode(OptionalDecoder.java:36)
+	at feign.AsyncResponseHandler.decode(AsyncResponseHandler.java:115)
+	at feign.AsyncResponseHandler.handleResponse(AsyncResponseHandler.java:87)
+	at feign.SynchronousMethodHandler.executeAndDecode(SynchronousMethodHandler.java:138)
+	at feign.SynchronousMethodHandler.invoke(SynchronousMethodHandler.java:89)
+	at feign.ReflectiveFeign$FeignInvocationHandler.invoke(ReflectiveFeign.java:100)
+	at com.sun.proxy.$Proxy65.download(Unknown Source)
+	at com.abujava.project.controller.DownloadController.download(DownloadController.java:33)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:205)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:150)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1070)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:963)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:655)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:764)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:360)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:399)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:890)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1789)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+2022-12-17 16:50:03 - Starting OpenfeignWithFilesApplication using Java 11.0.16 on Win11 with PID 12296 (D:\AbuJava\openfeign-with-files\target\classes started by Muhammad in D:\AbuJava\openfeign-with-files)
+2022-12-17 16:50:03 - Running with Spring Boot v2.7.3, Spring v5.3.22
+2022-12-17 16:50:03 - No active profile set, falling back to 1 default profile: "default"
+2022-12-17 16:50:04 - BeanFactory id=c1669896-9747-30ec-937e-713b03a4f31e
+2022-12-17 16:50:04 - Tomcat initialized with port(s): 8080 (http)
+2022-12-17 16:50:04 - Starting service [Tomcat]
+2022-12-17 16:50:04 - Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-12-17 16:50:04 - Initializing Spring embedded WebApplicationContext
+2022-12-17 16:50:04 - Root WebApplicationContext: initialization completed in 858 ms
+2022-12-17 16:50:05 - Tomcat started on port(s): 8080 (http) with context path ''
+2022-12-17 16:50:05 - Started OpenfeignWithFilesApplication in 2.743 seconds (JVM running for 3.791)
+2022-12-17 16:50:36 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-12-17 16:50:36 - Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is feign.codec.DecodeException: Could not extract response: no suitable HttpMessageConverter found for response type [class java.io.File] and content type [application/octet-stream]] with root cause
+org.springframework.web.client.UnknownContentTypeException: Could not extract response: no suitable HttpMessageConverter found for response type [class java.io.File] and content type [application/octet-stream]
+	at org.springframework.web.client.HttpMessageConverterExtractor.extractData(HttpMessageConverterExtractor.java:126)
+	at org.springframework.cloud.openfeign.support.SpringDecoder.decode(SpringDecoder.java:75)
+	at org.springframework.cloud.openfeign.support.ResponseEntityDecoder.decode(ResponseEntityDecoder.java:61)
+	at feign.optionals.OptionalDecoder.decode(OptionalDecoder.java:36)
+	at feign.AsyncResponseHandler.decode(AsyncResponseHandler.java:115)
+	at feign.AsyncResponseHandler.handleResponse(AsyncResponseHandler.java:87)
+	at feign.SynchronousMethodHandler.executeAndDecode(SynchronousMethodHandler.java:138)
+	at feign.SynchronousMethodHandler.invoke(SynchronousMethodHandler.java:89)
+	at feign.ReflectiveFeign$FeignInvocationHandler.invoke(ReflectiveFeign.java:100)
+	at com.sun.proxy.$Proxy65.download(Unknown Source)
+	at com.abujava.project.controller.DownloadController.download(DownloadController.java:33)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:205)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:150)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1070)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:963)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:655)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:764)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:360)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:399)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:890)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1789)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+2022-12-17 16:53:14 - Starting OpenfeignWithFilesApplication using Java 11.0.16 on Win11 with PID 9624 (D:\AbuJava\openfeign-with-files\target\classes started by Muhammad in D:\AbuJava\openfeign-with-files)
+2022-12-17 16:53:14 - Running with Spring Boot v2.7.3, Spring v5.3.22
+2022-12-17 16:53:14 - No active profile set, falling back to 1 default profile: "default"
+2022-12-17 16:53:15 - BeanFactory id=c1669896-9747-30ec-937e-713b03a4f31e
+2022-12-17 16:53:15 - Tomcat initialized with port(s): 8080 (http)
+2022-12-17 16:53:15 - Starting service [Tomcat]
+2022-12-17 16:53:15 - Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-12-17 16:53:16 - Initializing Spring embedded WebApplicationContext
+2022-12-17 16:53:16 - Root WebApplicationContext: initialization completed in 1413 ms
+2022-12-17 16:53:16 - Tomcat started on port(s): 8080 (http) with context path ''
+2022-12-17 16:53:17 - Started OpenfeignWithFilesApplication in 3.336 seconds (JVM running for 4.383)
+2022-12-17 16:53:26 - Starting OpenfeignWithFilesApplication using Java 11.0.16 on Win11 with PID 7776 (D:\AbuJava\openfeign-with-files\target\classes started by Muhammad in D:\AbuJava\openfeign-with-files)
+2022-12-17 16:53:26 - Running with Spring Boot v2.7.3, Spring v5.3.22
+2022-12-17 16:53:26 - No active profile set, falling back to 1 default profile: "default"
+2022-12-17 16:53:26 - BeanFactory id=c1669896-9747-30ec-937e-713b03a4f31e
+2022-12-17 16:53:26 - Tomcat initialized with port(s): 8080 (http)
+2022-12-17 16:53:26 - Starting service [Tomcat]
+2022-12-17 16:53:26 - Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-12-17 16:53:27 - Initializing Spring embedded WebApplicationContext
+2022-12-17 16:53:27 - Root WebApplicationContext: initialization completed in 803 ms
+2022-12-17 16:53:27 - Tomcat started on port(s): 8080 (http) with context path ''
+2022-12-17 16:53:27 - Started OpenfeignWithFilesApplication in 2.281 seconds (JVM running for 3.055)
+2022-12-17 16:53:31 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-12-17 16:56:03 - Starting OpenfeignWithFilesApplication using Java 11.0.16 on Win11 with PID 13304 (D:\AbuJava\openfeign-with-files\target\classes started by Muhammad in D:\AbuJava\openfeign-with-files)
+2022-12-17 16:56:03 - Running with Spring Boot v2.7.3, Spring v5.3.22
+2022-12-17 16:56:03 - No active profile set, falling back to 1 default profile: "default"
+2022-12-17 16:56:03 - BeanFactory id=c1669896-9747-30ec-937e-713b03a4f31e
+2022-12-17 16:56:04 - Tomcat initialized with port(s): 8080 (http)
+2022-12-17 16:56:04 - Starting service [Tomcat]
+2022-12-17 16:56:04 - Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-12-17 16:56:04 - Initializing Spring embedded WebApplicationContext
+2022-12-17 16:56:04 - Root WebApplicationContext: initialization completed in 847 ms
+2022-12-17 16:56:04 - Tomcat started on port(s): 8080 (http) with context path ''
+2022-12-17 16:56:05 - Started OpenfeignWithFilesApplication in 2.545 seconds (JVM running for 3.411)
+2022-12-17 16:56:15 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-12-17 16:56:18 - Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is feign.codec.DecodeException: Could not extract response: no suitable HttpMessageConverter found for response type [class [Lorg.springframework.web.multipart.MultipartFile;] and content type [application/octet-stream]] with root cause
+org.springframework.web.client.UnknownContentTypeException: Could not extract response: no suitable HttpMessageConverter found for response type [class [Lorg.springframework.web.multipart.MultipartFile;] and content type [application/octet-stream]
+	at org.springframework.web.client.HttpMessageConverterExtractor.extractData(HttpMessageConverterExtractor.java:126)
+	at org.springframework.cloud.openfeign.support.SpringDecoder.decode(SpringDecoder.java:75)
+	at org.springframework.cloud.openfeign.support.ResponseEntityDecoder.decode(ResponseEntityDecoder.java:61)
+	at feign.optionals.OptionalDecoder.decode(OptionalDecoder.java:36)
+	at feign.AsyncResponseHandler.decode(AsyncResponseHandler.java:115)
+	at feign.AsyncResponseHandler.handleResponse(AsyncResponseHandler.java:87)
+	at feign.SynchronousMethodHandler.executeAndDecode(SynchronousMethodHandler.java:138)
+	at feign.SynchronousMethodHandler.invoke(SynchronousMethodHandler.java:89)
+	at feign.ReflectiveFeign$FeignInvocationHandler.invoke(ReflectiveFeign.java:100)
+	at com.sun.proxy.$Proxy65.download(Unknown Source)
+	at com.abujava.project.controller.DownloadController.download(DownloadController.java:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:205)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:150)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1070)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:963)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:655)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:764)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:360)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:399)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:890)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1789)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+2022-12-17 17:04:47 - Starting OpenfeignWithFilesApplication using Java 11.0.16 on Win11 with PID 10276 (D:\AbuJava\openfeign-with-files\target\classes started by Muhammad in D:\AbuJava\openfeign-with-files)
+2022-12-17 17:04:48 - Running with Spring Boot v2.7.3, Spring v5.3.22
+2022-12-17 17:04:48 - No active profile set, falling back to 1 default profile: "default"
+2022-12-17 17:04:48 - BeanFactory id=c1669896-9747-30ec-937e-713b03a4f31e
+2022-12-17 17:04:48 - Tomcat initialized with port(s): 8080 (http)
+2022-12-17 17:04:48 - Starting service [Tomcat]
+2022-12-17 17:04:48 - Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-12-17 17:04:48 - Initializing Spring embedded WebApplicationContext
+2022-12-17 17:04:48 - Root WebApplicationContext: initialization completed in 914 ms
+2022-12-17 17:04:49 - Tomcat started on port(s): 8080 (http) with context path ''
+2022-12-17 17:04:49 - Started OpenfeignWithFilesApplication in 2.66 seconds (JVM running for 3.722)
+2022-12-17 17:05:19 - Starting OpenfeignWithFilesApplication using Java 11.0.16 on Win11 with PID 4052 (D:\AbuJava\openfeign-with-files\target\classes started by Muhammad in D:\AbuJava\openfeign-with-files)
+2022-12-17 17:05:19 - Running with Spring Boot v2.7.3, Spring v5.3.22
+2022-12-17 17:05:19 - No active profile set, falling back to 1 default profile: "default"
+2022-12-17 17:05:20 - BeanFactory id=c1669896-9747-30ec-937e-713b03a4f31e
+2022-12-17 17:05:20 - Tomcat initialized with port(s): 8080 (http)
+2022-12-17 17:05:20 - Starting service [Tomcat]
+2022-12-17 17:05:20 - Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-12-17 17:05:20 - Initializing Spring embedded WebApplicationContext
+2022-12-17 17:05:20 - Root WebApplicationContext: initialization completed in 998 ms
+2022-12-17 17:05:21 - Tomcat started on port(s): 8080 (http) with context path ''
+2022-12-17 17:05:21 - Started OpenfeignWithFilesApplication in 2.518 seconds (JVM running for 3.379)
+2022-12-17 17:05:26 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-12-17 17:05:44 - Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is feign.codec.DecodeException: Could not extract response: no suitable HttpMessageConverter found for response type [interface org.springframework.web.multipart.MultipartFile] and content type [application/octet-stream]] with root cause
+org.springframework.web.client.UnknownContentTypeException: Could not extract response: no suitable HttpMessageConverter found for response type [interface org.springframework.web.multipart.MultipartFile] and content type [application/octet-stream]
+	at org.springframework.web.client.HttpMessageConverterExtractor.extractData(HttpMessageConverterExtractor.java:126)
+	at org.springframework.cloud.openfeign.support.SpringDecoder.decode(SpringDecoder.java:75)
+	at org.springframework.cloud.openfeign.support.ResponseEntityDecoder.decode(ResponseEntityDecoder.java:61)
+	at feign.optionals.OptionalDecoder.decode(OptionalDecoder.java:36)
+	at feign.AsyncResponseHandler.decode(AsyncResponseHandler.java:115)
+	at feign.AsyncResponseHandler.handleResponse(AsyncResponseHandler.java:87)
+	at feign.SynchronousMethodHandler.executeAndDecode(SynchronousMethodHandler.java:138)
+	at feign.SynchronousMethodHandler.invoke(SynchronousMethodHandler.java:89)
+	at feign.ReflectiveFeign$FeignInvocationHandler.invoke(ReflectiveFeign.java:100)
+	at com.sun.proxy.$Proxy65.download(Unknown Source)
+	at com.abujava.project.controller.DownloadController.download(DownloadController.java:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:205)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:150)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1070)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:963)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:655)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:764)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:360)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:399)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:890)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1789)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+2022-12-17 17:09:37 - Starting OpenfeignWithFilesApplication using Java 11.0.16 on Win11 with PID 11880 (D:\AbuJava\openfeign-with-files\target\classes started by Muhammad in D:\AbuJava\openfeign-with-files)
+2022-12-17 17:09:37 - Running with Spring Boot v2.7.3, Spring v5.3.22
+2022-12-17 17:09:37 - No active profile set, falling back to 1 default profile: "default"
+2022-12-17 17:09:37 - BeanFactory id=c1669896-9747-30ec-937e-713b03a4f31e
+2022-12-17 17:09:38 - Tomcat initialized with port(s): 8080 (http)
+2022-12-17 17:09:38 - Starting service [Tomcat]
+2022-12-17 17:09:38 - Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-12-17 17:09:38 - Initializing Spring embedded WebApplicationContext
+2022-12-17 17:09:38 - Root WebApplicationContext: initialization completed in 863 ms
+2022-12-17 17:09:38 - Tomcat started on port(s): 8080 (http) with context path ''
+2022-12-17 17:09:39 - Started OpenfeignWithFilesApplication in 2.36 seconds (JVM running for 3.35)
+2022-12-17 17:09:45 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-12-17 17:09:46 - Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is feign.codec.DecodeException: Could not extract response: no suitable HttpMessageConverter found for response type [interface org.springframework.web.multipart.MultipartFile] and content type [application/octet-stream]] with root cause
+org.springframework.web.client.UnknownContentTypeException: Could not extract response: no suitable HttpMessageConverter found for response type [interface org.springframework.web.multipart.MultipartFile] and content type [application/octet-stream]
+	at org.springframework.web.client.HttpMessageConverterExtractor.extractData(HttpMessageConverterExtractor.java:126)
+	at org.springframework.cloud.openfeign.support.SpringDecoder.decode(SpringDecoder.java:75)
+	at org.springframework.cloud.openfeign.support.ResponseEntityDecoder.decode(ResponseEntityDecoder.java:61)
+	at feign.optionals.OptionalDecoder.decode(OptionalDecoder.java:36)
+	at feign.AsyncResponseHandler.decode(AsyncResponseHandler.java:115)
+	at feign.AsyncResponseHandler.handleResponse(AsyncResponseHandler.java:87)
+	at feign.SynchronousMethodHandler.executeAndDecode(SynchronousMethodHandler.java:138)
+	at feign.SynchronousMethodHandler.invoke(SynchronousMethodHandler.java:89)
+	at feign.ReflectiveFeign$FeignInvocationHandler.invoke(ReflectiveFeign.java:100)
+	at com.sun.proxy.$Proxy65.download(Unknown Source)
+	at com.abujava.project.controller.DownloadController.download(DownloadController.java:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:205)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:150)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1070)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:963)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:655)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:764)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:360)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:399)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:890)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1789)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+2022-12-17 17:10:10 - Starting OpenfeignWithFilesApplication using Java 11.0.16 on Win11 with PID 11196 (D:\AbuJava\openfeign-with-files\target\classes started by Muhammad in D:\AbuJava\openfeign-with-files)
+2022-12-17 17:10:10 - Running with Spring Boot v2.7.3, Spring v5.3.22
+2022-12-17 17:10:10 - No active profile set, falling back to 1 default profile: "default"
+2022-12-17 17:10:10 - BeanFactory id=c1669896-9747-30ec-937e-713b03a4f31e
+2022-12-17 17:10:10 - Tomcat initialized with port(s): 8080 (http)
+2022-12-17 17:10:10 - Starting service [Tomcat]
+2022-12-17 17:10:10 - Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-12-17 17:10:10 - Initializing Spring embedded WebApplicationContext
+2022-12-17 17:10:10 - Root WebApplicationContext: initialization completed in 860 ms
+2022-12-17 17:10:11 - Tomcat started on port(s): 8080 (http) with context path ''
+2022-12-17 17:10:11 - Started OpenfeignWithFilesApplication in 2.367 seconds (JVM running for 3.401)
+2022-12-17 17:10:16 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-12-17 17:10:16 - Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is feign.codec.DecodeException: Could not extract response: no suitable HttpMessageConverter found for response type [interface org.springframework.web.multipart.MultipartFile] and content type [application/octet-stream]] with root cause
+org.springframework.web.client.UnknownContentTypeException: Could not extract response: no suitable HttpMessageConverter found for response type [interface org.springframework.web.multipart.MultipartFile] and content type [application/octet-stream]
+	at org.springframework.web.client.HttpMessageConverterExtractor.extractData(HttpMessageConverterExtractor.java:126)
+	at org.springframework.cloud.openfeign.support.SpringDecoder.decode(SpringDecoder.java:75)
+	at org.springframework.cloud.openfeign.support.ResponseEntityDecoder.decode(ResponseEntityDecoder.java:61)
+	at feign.optionals.OptionalDecoder.decode(OptionalDecoder.java:36)
+	at feign.AsyncResponseHandler.decode(AsyncResponseHandler.java:115)
+	at feign.AsyncResponseHandler.handleResponse(AsyncResponseHandler.java:87)
+	at feign.SynchronousMethodHandler.executeAndDecode(SynchronousMethodHandler.java:138)
+	at feign.SynchronousMethodHandler.invoke(SynchronousMethodHandler.java:89)
+	at feign.ReflectiveFeign$FeignInvocationHandler.invoke(ReflectiveFeign.java:100)
+	at com.sun.proxy.$Proxy65.download(Unknown Source)
+	at com.abujava.project.controller.DownloadController.download(DownloadController.java:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:205)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:150)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1070)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:963)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:655)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:764)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:360)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:399)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:890)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1789)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+2022-12-17 17:11:48 - Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is feign.FeignException$BadRequest: [400 Bad Request] during [GET] to [http://185.74.5.104:8080/api/education/v1/time-table-student/download-excel/64bf0640-db83-4cd3-adb2-a50d9aa442c3.image_jpeg] [FileDownloadFeign#download(String)]: []] with root cause
+feign.FeignException$BadRequest: [400 Bad Request] during [GET] to [http://185.74.5.104:8080/api/education/v1/time-table-student/download-excel/64bf0640-db83-4cd3-adb2-a50d9aa442c3.image_jpeg] [FileDownloadFeign#download(String)]: []
+	at feign.FeignException.clientErrorStatus(FeignException.java:213)
+	at feign.FeignException.errorStatus(FeignException.java:194)
+	at feign.FeignException.errorStatus(FeignException.java:185)
+	at feign.codec.ErrorDecoder$Default.decode(ErrorDecoder.java:92)
+	at feign.AsyncResponseHandler.handleResponse(AsyncResponseHandler.java:96)
+	at feign.SynchronousMethodHandler.executeAndDecode(SynchronousMethodHandler.java:138)
+	at feign.SynchronousMethodHandler.invoke(SynchronousMethodHandler.java:89)
+	at feign.ReflectiveFeign$FeignInvocationHandler.invoke(ReflectiveFeign.java:100)
+	at com.sun.proxy.$Proxy65.download(Unknown Source)
+	at com.abujava.project.controller.DownloadController.download(DownloadController.java:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:205)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:150)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1070)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:963)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:655)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:764)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:360)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:399)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:890)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1789)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+2022-12-17 17:11:55 - Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is feign.FeignException$BadRequest: [400 Bad Request] during [GET] to [http://185.74.5.104:8080/api/education/v1/time-table-student/download-excel/64bf0640-db83-4cd3-adb2-a50d9aa442c3.image_jpeg] [FileDownloadFeign#download(String)]: []] with root cause
+feign.FeignException$BadRequest: [400 Bad Request] during [GET] to [http://185.74.5.104:8080/api/education/v1/time-table-student/download-excel/64bf0640-db83-4cd3-adb2-a50d9aa442c3.image_jpeg] [FileDownloadFeign#download(String)]: []
+	at feign.FeignException.clientErrorStatus(FeignException.java:213)
+	at feign.FeignException.errorStatus(FeignException.java:194)
+	at feign.FeignException.errorStatus(FeignException.java:185)
+	at feign.codec.ErrorDecoder$Default.decode(ErrorDecoder.java:92)
+	at feign.AsyncResponseHandler.handleResponse(AsyncResponseHandler.java:96)
+	at feign.SynchronousMethodHandler.executeAndDecode(SynchronousMethodHandler.java:138)
+	at feign.SynchronousMethodHandler.invoke(SynchronousMethodHandler.java:89)
+	at feign.ReflectiveFeign$FeignInvocationHandler.invoke(ReflectiveFeign.java:100)
+	at com.sun.proxy.$Proxy65.download(Unknown Source)
+	at com.abujava.project.controller.DownloadController.download(DownloadController.java:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:205)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:150)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1070)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:963)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:655)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:764)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:360)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:399)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:890)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1789)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+2022-12-17 17:12:53 - Starting OpenfeignWithFilesApplication using Java 11.0.16 on Win11 with PID 13692 (D:\AbuJava\openfeign-with-files\target\classes started by Muhammad in D:\AbuJava\openfeign-with-files)
+2022-12-17 17:12:53 - Running with Spring Boot v2.7.3, Spring v5.3.22
+2022-12-17 17:12:53 - No active profile set, falling back to 1 default profile: "default"
+2022-12-17 17:12:53 - BeanFactory id=c1669896-9747-30ec-937e-713b03a4f31e
+2022-12-17 17:12:53 - Tomcat initialized with port(s): 8080 (http)
+2022-12-17 17:12:53 - Starting service [Tomcat]
+2022-12-17 17:12:53 - Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-12-17 17:12:53 - Initializing Spring embedded WebApplicationContext
+2022-12-17 17:12:53 - Root WebApplicationContext: initialization completed in 765 ms
+2022-12-17 17:12:54 - Tomcat started on port(s): 8080 (http) with context path ''
+2022-12-17 17:12:54 - Started OpenfeignWithFilesApplication in 2.168 seconds (JVM running for 2.983)
+2022-12-17 17:13:02 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-12-17 17:13:02 - Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is feign.FeignException$NotFound: [404 Not Found] during [GET] to [http://185.74.5.104:8080/api/attachement/v1/attachment/64bf0640-db83-4cd3-adb2-a50d9aa442c3.image_jpeg] [FileDownloadFeign#download(String)]: [{"timestamp":1671279184612,"path":"/api/attachement/v1/attachment/64bf0640-db83-4cd3-adb2-a50d9aa442c3.image_jpeg","status":404,"error":"Not Found","requestId":"201fd565-1"}]] with root cause
+feign.FeignException$NotFound: [404 Not Found] during [GET] to [http://185.74.5.104:8080/api/attachement/v1/attachment/64bf0640-db83-4cd3-adb2-a50d9aa442c3.image_jpeg] [FileDownloadFeign#download(String)]: [{"timestamp":1671279184612,"path":"/api/attachement/v1/attachment/64bf0640-db83-4cd3-adb2-a50d9aa442c3.image_jpeg","status":404,"error":"Not Found","requestId":"201fd565-1"}]
+	at feign.FeignException.clientErrorStatus(FeignException.java:219)
+	at feign.FeignException.errorStatus(FeignException.java:194)
+	at feign.FeignException.errorStatus(FeignException.java:185)
+	at feign.codec.ErrorDecoder$Default.decode(ErrorDecoder.java:92)
+	at feign.AsyncResponseHandler.handleResponse(AsyncResponseHandler.java:96)
+	at feign.SynchronousMethodHandler.executeAndDecode(SynchronousMethodHandler.java:138)
+	at feign.SynchronousMethodHandler.invoke(SynchronousMethodHandler.java:89)
+	at feign.ReflectiveFeign$FeignInvocationHandler.invoke(ReflectiveFeign.java:100)
+	at com.sun.proxy.$Proxy65.download(Unknown Source)
+	at com.abujava.project.controller.DownloadController.download(DownloadController.java:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:205)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:150)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1070)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:963)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:655)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:764)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:360)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:399)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:890)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1789)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+2022-12-17 17:14:21 - Starting OpenfeignWithFilesApplication using Java 11.0.16 on Win11 with PID 6840 (D:\AbuJava\openfeign-with-files\target\classes started by Muhammad in D:\AbuJava\openfeign-with-files)
+2022-12-17 17:14:21 - Running with Spring Boot v2.7.3, Spring v5.3.22
+2022-12-17 17:14:21 - No active profile set, falling back to 1 default profile: "default"
+2022-12-17 17:14:21 - BeanFactory id=c1669896-9747-30ec-937e-713b03a4f31e
+2022-12-17 17:14:21 - Tomcat initialized with port(s): 8080 (http)
+2022-12-17 17:14:21 - Starting service [Tomcat]
+2022-12-17 17:14:21 - Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-12-17 17:14:22 - Initializing Spring embedded WebApplicationContext
+2022-12-17 17:14:22 - Root WebApplicationContext: initialization completed in 790 ms
+2022-12-17 17:14:22 - Tomcat started on port(s): 8080 (http) with context path ''
+2022-12-17 17:14:22 - Started OpenfeignWithFilesApplication in 2.215 seconds (JVM running for 2.945)
+2022-12-17 17:14:28 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-12-17 17:14:28 - Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is feign.FeignException$NotFound: [404 Not Found] during [GET] to [http://185.74.5.104:8080/api/attachment/v1/download/64bf0640-db83-4cd3-adb2-a50d9aa442c3.image_jpeg] [FileDownloadFeign#download(String)]: []] with root cause
+feign.FeignException$NotFound: [404 Not Found] during [GET] to [http://185.74.5.104:8080/api/attachment/v1/download/64bf0640-db83-4cd3-adb2-a50d9aa442c3.image_jpeg] [FileDownloadFeign#download(String)]: []
+	at feign.FeignException.clientErrorStatus(FeignException.java:219)
+	at feign.FeignException.errorStatus(FeignException.java:194)
+	at feign.FeignException.errorStatus(FeignException.java:185)
+	at feign.codec.ErrorDecoder$Default.decode(ErrorDecoder.java:92)
+	at feign.AsyncResponseHandler.handleResponse(AsyncResponseHandler.java:96)
+	at feign.SynchronousMethodHandler.executeAndDecode(SynchronousMethodHandler.java:138)
+	at feign.SynchronousMethodHandler.invoke(SynchronousMethodHandler.java:89)
+	at feign.ReflectiveFeign$FeignInvocationHandler.invoke(ReflectiveFeign.java:100)
+	at com.sun.proxy.$Proxy65.download(Unknown Source)
+	at com.abujava.project.controller.DownloadController.download(DownloadController.java:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:205)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:150)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1070)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:963)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:655)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:764)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:360)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:399)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:890)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1789)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+2022-12-17 17:18:15 - Starting OpenfeignWithFilesApplication using Java 11.0.16 on Win11 with PID 12920 (D:\AbuJava\openfeign-with-files\target\classes started by Muhammad in D:\AbuJava\openfeign-with-files)
+2022-12-17 17:18:15 - Running with Spring Boot v2.7.3, Spring v5.3.22
+2022-12-17 17:18:15 - No active profile set, falling back to 1 default profile: "default"
+2022-12-17 17:18:15 - BeanFactory id=c1669896-9747-30ec-937e-713b03a4f31e
+2022-12-17 17:18:16 - Tomcat initialized with port(s): 8080 (http)
+2022-12-17 17:18:16 - Starting service [Tomcat]
+2022-12-17 17:18:16 - Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-12-17 17:18:16 - Initializing Spring embedded WebApplicationContext
+2022-12-17 17:18:16 - Root WebApplicationContext: initialization completed in 950 ms
+2022-12-17 17:18:16 - Tomcat started on port(s): 8080 (http) with context path ''
+2022-12-17 17:18:17 - Started OpenfeignWithFilesApplication in 2.408 seconds (JVM running for 3.275)
+2022-12-17 17:19:49 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-12-17 17:19:49 - Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is feign.FeignException$NotFound: [404 Not Found] during [GET] to [http://185.74.5.104:8080/api/attachment/v1/download/470a26c7-1bdd-4732-bb69-d77d91345a12.image_jpeg?id=470a26c7-1bdd-4732-bb69-d77d91345a12.image_jpeg] [FileDownloadFeign#download(String)]: []] with root cause
+feign.FeignException$NotFound: [404 Not Found] during [GET] to [http://185.74.5.104:8080/api/attachment/v1/download/470a26c7-1bdd-4732-bb69-d77d91345a12.image_jpeg?id=470a26c7-1bdd-4732-bb69-d77d91345a12.image_jpeg] [FileDownloadFeign#download(String)]: []
+	at feign.FeignException.clientErrorStatus(FeignException.java:219)
+	at feign.FeignException.errorStatus(FeignException.java:194)
+	at feign.FeignException.errorStatus(FeignException.java:185)
+	at feign.codec.ErrorDecoder$Default.decode(ErrorDecoder.java:92)
+	at feign.AsyncResponseHandler.handleResponse(AsyncResponseHandler.java:96)
+	at feign.SynchronousMethodHandler.executeAndDecode(SynchronousMethodHandler.java:138)
+	at feign.SynchronousMethodHandler.invoke(SynchronousMethodHandler.java:89)
+	at feign.ReflectiveFeign$FeignInvocationHandler.invoke(ReflectiveFeign.java:100)
+	at com.sun.proxy.$Proxy65.download(Unknown Source)
+	at com.abujava.project.controller.DownloadController.download(DownloadController.java:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:205)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:150)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1070)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:963)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:655)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:764)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:360)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:399)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:890)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1789)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+2022-12-17 17:20:42 - Starting OpenfeignWithFilesApplication using Java 11.0.16 on Win11 with PID 6384 (D:\AbuJava\openfeign-with-files\target\classes started by Muhammad in D:\AbuJava\openfeign-with-files)
+2022-12-17 17:20:42 - Running with Spring Boot v2.7.3, Spring v5.3.22
+2022-12-17 17:20:42 - No active profile set, falling back to 1 default profile: "default"
+2022-12-17 17:20:43 - BeanFactory id=c1669896-9747-30ec-937e-713b03a4f31e
+2022-12-17 17:20:43 - Tomcat initialized with port(s): 8080 (http)
+2022-12-17 17:20:43 - Starting service [Tomcat]
+2022-12-17 17:20:43 - Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-12-17 17:20:43 - Initializing Spring embedded WebApplicationContext
+2022-12-17 17:20:43 - Root WebApplicationContext: initialization completed in 785 ms
+2022-12-17 17:20:44 - Tomcat started on port(s): 8080 (http) with context path ''
+2022-12-17 17:20:44 - Started OpenfeignWithFilesApplication in 2.232 seconds (JVM running for 2.994)
+2022-12-17 17:21:18 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-12-17 17:21:18 - Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is feign.FeignException$NotFound: [404 Not Found] during [GET] to [http://185.74.5.104:8080/api/attachment/v1/download?id=470a26c7-1bdd-4732-bb69-d77d91345a12.image_jpeg] [FileDownloadFeign#download(String)]: []] with root cause
+feign.FeignException$NotFound: [404 Not Found] during [GET] to [http://185.74.5.104:8080/api/attachment/v1/download?id=470a26c7-1bdd-4732-bb69-d77d91345a12.image_jpeg] [FileDownloadFeign#download(String)]: []
+	at feign.FeignException.clientErrorStatus(FeignException.java:219)
+	at feign.FeignException.errorStatus(FeignException.java:194)
+	at feign.FeignException.errorStatus(FeignException.java:185)
+	at feign.codec.ErrorDecoder$Default.decode(ErrorDecoder.java:92)
+	at feign.AsyncResponseHandler.handleResponse(AsyncResponseHandler.java:96)
+	at feign.SynchronousMethodHandler.executeAndDecode(SynchronousMethodHandler.java:138)
+	at feign.SynchronousMethodHandler.invoke(SynchronousMethodHandler.java:89)
+	at feign.ReflectiveFeign$FeignInvocationHandler.invoke(ReflectiveFeign.java:100)
+	at com.sun.proxy.$Proxy65.download(Unknown Source)
+	at com.abujava.project.controller.DownloadController.download(DownloadController.java:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:205)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:150)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1070)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:963)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:655)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:764)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:360)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:399)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:890)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1789)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+2022-12-17 17:22:06 - Starting OpenfeignWithFilesApplication using Java 11.0.16 on Win11 with PID 2528 (D:\AbuJava\openfeign-with-files\target\classes started by Muhammad in D:\AbuJava\openfeign-with-files)
+2022-12-17 17:22:06 - Running with Spring Boot v2.7.3, Spring v5.3.22
+2022-12-17 17:22:06 - No active profile set, falling back to 1 default profile: "default"
+2022-12-17 17:22:07 - BeanFactory id=c1669896-9747-30ec-937e-713b03a4f31e
+2022-12-17 17:22:07 - Tomcat initialized with port(s): 8080 (http)
+2022-12-17 17:22:07 - Starting service [Tomcat]
+2022-12-17 17:22:07 - Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-12-17 17:22:07 - Initializing Spring embedded WebApplicationContext
+2022-12-17 17:22:07 - Root WebApplicationContext: initialization completed in 936 ms
+2022-12-17 17:22:08 - Tomcat started on port(s): 8080 (http) with context path ''
+2022-12-17 17:22:08 - Started OpenfeignWithFilesApplication in 2.475 seconds (JVM running for 3.272)
+2022-12-17 17:22:20 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-12-17 17:22:47 - Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+java.lang.NullPointerException: null
+	at com.abujava.project.controller.DownloadController.download(DownloadController.java:40)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:205)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:150)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1070)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:963)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:655)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:764)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:360)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:399)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:890)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1789)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+2022-12-17 17:24:08 - Starting OpenfeignWithFilesApplication using Java 11.0.16 on Win11 with PID 11480 (D:\AbuJava\openfeign-with-files\target\classes started by Muhammad in D:\AbuJava\openfeign-with-files)
+2022-12-17 17:24:08 - Running with Spring Boot v2.7.3, Spring v5.3.22
+2022-12-17 17:24:08 - No active profile set, falling back to 1 default profile: "default"
+2022-12-17 17:24:09 - BeanFactory id=c1669896-9747-30ec-937e-713b03a4f31e
+2022-12-17 17:24:09 - Tomcat initialized with port(s): 8080 (http)
+2022-12-17 17:24:09 - Starting service [Tomcat]
+2022-12-17 17:24:09 - Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-12-17 17:24:09 - Initializing Spring embedded WebApplicationContext
+2022-12-17 17:24:09 - Root WebApplicationContext: initialization completed in 798 ms
+2022-12-17 17:24:10 - Tomcat started on port(s): 8080 (http) with context path ''
+2022-12-17 17:24:10 - Started OpenfeignWithFilesApplication in 2.246 seconds (JVM running for 3.181)
+2022-12-17 17:24:39 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-12-17 17:55:41 - Starting OpenfeignWithFilesApplication using Java 11.0.16 on Win11 with PID 4048 (D:\AbuJava\openfeign-with-files\target\classes started by Muhammad in D:\AbuJava\openfeign-with-files)
+2022-12-17 17:55:41 - Running with Spring Boot v2.7.3, Spring v5.3.22
+2022-12-17 17:55:41 - No active profile set, falling back to 1 default profile: "default"
+2022-12-17 17:55:42 - BeanFactory id=2dfa8b71-e86a-3223-a4e6-172bbfc7bf00
+2022-12-17 17:55:42 - Tomcat initialized with port(s): 8080 (http)
+2022-12-17 17:55:42 - Starting service [Tomcat]
+2022-12-17 17:55:42 - Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-12-17 17:55:42 - Initializing Spring embedded WebApplicationContext
+2022-12-17 17:55:42 - Root WebApplicationContext: initialization completed in 1002 ms
+2022-12-17 17:55:43 - Tomcat started on port(s): 8080 (http) with context path ''
+2022-12-17 17:55:43 - Started OpenfeignWithFilesApplication in 2.881 seconds (JVM running for 3.986)
+2022-12-17 17:56:11 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-12-17 18:21:44 - Starting OpenfeignWithFilesApplication using Java 11.0.16 on Win11 with PID 1540 (D:\AbuJava\openfeign-with-files\target\classes started by Muhammad in D:\AbuJava\openfeign-with-files)
+2022-12-17 18:21:44 - Running with Spring Boot v2.7.3, Spring v5.3.22
+2022-12-17 18:21:44 - No active profile set, falling back to 1 default profile: "default"
+2022-12-17 18:21:45 - BeanFactory id=2dfa8b71-e86a-3223-a4e6-172bbfc7bf00
+2022-12-17 18:21:45 - Tomcat initialized with port(s): 8080 (http)
+2022-12-17 18:21:45 - Starting service [Tomcat]
+2022-12-17 18:21:45 - Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-12-17 18:21:45 - Initializing Spring embedded WebApplicationContext
+2022-12-17 18:21:45 - Root WebApplicationContext: initialization completed in 958 ms
+2022-12-17 18:21:46 - Tomcat started on port(s): 8080 (http) with context path ''
+2022-12-17 18:21:46 - Started OpenfeignWithFilesApplication in 2.63 seconds (JVM running for 4.218)
+2022-12-17 18:22:28 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-12-17 18:23:11 - Starting OpenfeignWithFilesApplication using Java 11.0.16 on Win11 with PID 12776 (D:\AbuJava\openfeign-with-files\target\classes started by Muhammad in D:\AbuJava\openfeign-with-files)
+2022-12-17 18:23:11 - Running with Spring Boot v2.7.3, Spring v5.3.22
+2022-12-17 18:23:11 - No active profile set, falling back to 1 default profile: "default"
+2022-12-17 18:23:11 - BeanFactory id=2dfa8b71-e86a-3223-a4e6-172bbfc7bf00
+2022-12-17 18:23:11 - Tomcat initialized with port(s): 8080 (http)
+2022-12-17 18:23:11 - Starting service [Tomcat]
+2022-12-17 18:23:11 - Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-12-17 18:23:11 - Initializing Spring embedded WebApplicationContext
+2022-12-17 18:23:11 - Root WebApplicationContext: initialization completed in 875 ms
+2022-12-17 18:23:12 - Tomcat started on port(s): 8080 (http) with context path ''
+2022-12-17 18:23:12 - Started OpenfeignWithFilesApplication in 2.51 seconds (JVM running for 3.421)
+2022-12-17 18:23:29 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-12-17 18:23:39 - Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is feign.FeignException$NotFound: [404 Not Found] during [POST] to [http://185.74.5.104:8080/api/attachment/v1/attachment/upload] [FileUploadFeign#upload(MultipartFile)]: [{"success":false,"errors":[{"errorMsg":"Kontent turi topilmadi!","errorCode":404}]}]] with root cause
+feign.FeignException$NotFound: [404 Not Found] during [POST] to [http://185.74.5.104:8080/api/attachment/v1/attachment/upload] [FileUploadFeign#upload(MultipartFile)]: [{"success":false,"errors":[{"errorMsg":"Kontent turi topilmadi!","errorCode":404}]}]
+	at feign.FeignException.clientErrorStatus(FeignException.java:219)
+	at feign.FeignException.errorStatus(FeignException.java:194)
+	at feign.FeignException.errorStatus(FeignException.java:185)
+	at feign.codec.ErrorDecoder$Default.decode(ErrorDecoder.java:92)
+	at feign.AsyncResponseHandler.handleResponse(AsyncResponseHandler.java:96)
+	at feign.SynchronousMethodHandler.executeAndDecode(SynchronousMethodHandler.java:138)
+	at feign.SynchronousMethodHandler.invoke(SynchronousMethodHandler.java:89)
+	at feign.ReflectiveFeign$FeignInvocationHandler.invoke(ReflectiveFeign.java:100)
+	at com.sun.proxy.$Proxy70.upload(Unknown Source)
+	at com.abujava.project.controller.UploadController.upload(UploadController.java:40)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:205)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:150)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1070)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:963)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:655)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:764)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:360)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:399)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:890)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1789)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+2022-12-17 18:24:58 - Starting OpenfeignWithFilesApplication using Java 11.0.16 on Win11 with PID 13120 (D:\AbuJava\openfeign-with-files\target\classes started by Muhammad in D:\AbuJava\openfeign-with-files)
+2022-12-17 18:24:58 - Running with Spring Boot v2.7.3, Spring v5.3.22
+2022-12-17 18:24:58 - No active profile set, falling back to 1 default profile: "default"
+2022-12-17 18:24:59 - BeanFactory id=2dfa8b71-e86a-3223-a4e6-172bbfc7bf00
+2022-12-17 18:24:59 - Tomcat initialized with port(s): 8080 (http)
+2022-12-17 18:24:59 - Starting service [Tomcat]
+2022-12-17 18:24:59 - Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-12-17 18:24:59 - Initializing Spring embedded WebApplicationContext
+2022-12-17 18:24:59 - Root WebApplicationContext: initialization completed in 1193 ms
+2022-12-17 18:25:00 - Tomcat started on port(s): 8080 (http) with context path ''
+2022-12-17 18:25:00 - Started OpenfeignWithFilesApplication in 3.632 seconds (JVM running for 5.021)
+2022-12-17 18:26:58 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-12-17 18:27:23 - Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is feign.FeignException$NotFound: [404 Not Found] during [POST] to [http://185.74.5.104:8080/api/attachment/v1/attachment/upload-photo] [FileUploadFeign#upload(MultipartFile)]: [{"success":false,"errors":[{"errorMsg":"Yuklanma turi topilmadi!","errorCode":404}]}]] with root cause
+feign.FeignException$NotFound: [404 Not Found] during [POST] to [http://185.74.5.104:8080/api/attachment/v1/attachment/upload-photo] [FileUploadFeign#upload(MultipartFile)]: [{"success":false,"errors":[{"errorMsg":"Yuklanma turi topilmadi!","errorCode":404}]}]
+	at feign.FeignException.clientErrorStatus(FeignException.java:219)
+	at feign.FeignException.errorStatus(FeignException.java:194)
+	at feign.FeignException.errorStatus(FeignException.java:185)
+	at feign.codec.ErrorDecoder$Default.decode(ErrorDecoder.java:92)
+	at feign.AsyncResponseHandler.handleResponse(AsyncResponseHandler.java:96)
+	at feign.SynchronousMethodHandler.executeAndDecode(SynchronousMethodHandler.java:138)
+	at feign.SynchronousMethodHandler.invoke(SynchronousMethodHandler.java:89)
+	at feign.ReflectiveFeign$FeignInvocationHandler.invoke(ReflectiveFeign.java:100)
+	at com.sun.proxy.$Proxy70.upload(Unknown Source)
+	at com.abujava.project.controller.UploadController.upload(UploadController.java:40)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:205)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:150)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1070)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:963)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:655)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:764)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:360)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:399)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:890)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1789)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+2022-12-17 18:27:52 - Starting OpenfeignWithFilesApplication using Java 11.0.16 on Win11 with PID 8300 (D:\AbuJava\openfeign-with-files\target\classes started by Muhammad in D:\AbuJava\openfeign-with-files)
+2022-12-17 18:27:52 - Running with Spring Boot v2.7.3, Spring v5.3.22
+2022-12-17 18:27:52 - No active profile set, falling back to 1 default profile: "default"
+2022-12-17 18:27:53 - BeanFactory id=2dfa8b71-e86a-3223-a4e6-172bbfc7bf00
+2022-12-17 18:27:53 - Tomcat initialized with port(s): 8080 (http)
+2022-12-17 18:27:53 - Starting service [Tomcat]
+2022-12-17 18:27:53 - Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-12-17 18:27:53 - Initializing Spring embedded WebApplicationContext
+2022-12-17 18:27:53 - Root WebApplicationContext: initialization completed in 897 ms
+2022-12-17 18:27:54 - Tomcat started on port(s): 8080 (http) with context path ''
+2022-12-17 18:27:54 - Started OpenfeignWithFilesApplication in 2.307 seconds (JVM running for 3.24)
+2022-12-17 18:28:03 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-12-17 18:28:13 - Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is feign.FeignException$NotFound: [404 Not Found] during [POST] to [http://185.74.5.104:8080/api/attachment/v1/attachment/upload-photo] [FileUploadFeign#upload(MultipartFile)]: [{"success":false,"errors":[{"errorMsg":"Yuklanma turi topilmadi!","errorCode":404}]}]] with root cause
+feign.FeignException$NotFound: [404 Not Found] during [POST] to [http://185.74.5.104:8080/api/attachment/v1/attachment/upload-photo] [FileUploadFeign#upload(MultipartFile)]: [{"success":false,"errors":[{"errorMsg":"Yuklanma turi topilmadi!","errorCode":404}]}]
+	at feign.FeignException.clientErrorStatus(FeignException.java:219)
+	at feign.FeignException.errorStatus(FeignException.java:194)
+	at feign.FeignException.errorStatus(FeignException.java:185)
+	at feign.codec.ErrorDecoder$Default.decode(ErrorDecoder.java:92)
+	at feign.AsyncResponseHandler.handleResponse(AsyncResponseHandler.java:96)
+	at feign.SynchronousMethodHandler.executeAndDecode(SynchronousMethodHandler.java:138)
+	at feign.SynchronousMethodHandler.invoke(SynchronousMethodHandler.java:89)
+	at feign.ReflectiveFeign$FeignInvocationHandler.invoke(ReflectiveFeign.java:100)
+	at com.sun.proxy.$Proxy70.upload(Unknown Source)
+	at com.abujava.project.controller.UploadController.upload(UploadController.java:40)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:205)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:150)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1070)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:963)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:655)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:764)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:360)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:399)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:890)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1789)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+2022-12-17 18:31:31 - Starting OpenfeignWithFilesApplication using Java 11.0.16 on Win11 with PID 5508 (D:\AbuJava\openfeign-with-files\target\classes started by Muhammad in D:\AbuJava\openfeign-with-files)
+2022-12-17 18:31:31 - Running with Spring Boot v2.7.3, Spring v5.3.22
+2022-12-17 18:31:31 - No active profile set, falling back to 1 default profile: "default"
+2022-12-17 18:31:32 - BeanFactory id=2dfa8b71-e86a-3223-a4e6-172bbfc7bf00
+2022-12-17 18:31:32 - Tomcat initialized with port(s): 8080 (http)
+2022-12-17 18:31:32 - Starting service [Tomcat]
+2022-12-17 18:31:32 - Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-12-17 18:31:32 - Initializing Spring embedded WebApplicationContext
+2022-12-17 18:31:32 - Root WebApplicationContext: initialization completed in 824 ms
+2022-12-17 18:31:33 - Tomcat started on port(s): 8080 (http) with context path ''
+2022-12-17 18:31:33 - Started OpenfeignWithFilesApplication in 2.301 seconds (JVM running for 3.093)
+2022-12-17 18:31:49 - Initializing Spring DispatcherServlet 'dispatcherServlet'
